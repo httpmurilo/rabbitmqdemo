@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1mwI4W4NFegEOAkeEZ8Qw+WTNXWn/2rtTJuWy+7lsZ9PEt6KMSxr8zWwJAt/5dLKCuUkSWSsli8iqAhKXFZypw==",
+  "success": true,
+  "projectFilePath": "/Volumes/Secondary/estudos/rabbitmq/Consumer/Consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/muriloeduardo/.nuget/packages/rabbitmq.client/6.0.0/rabbitmq.client.6.0.0.nupkg.sha512",
+    "/Users/muriloeduardo/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
